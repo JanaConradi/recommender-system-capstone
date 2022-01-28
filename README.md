@@ -48,12 +48,6 @@ Small: 100,000 ratings and 3,600 tag applications applied to 9,000 movies by 600
 
 <br>
 
-## The main project notebooks:
-- [EDA_users](https://github.com/flux511/recommender-system-capstone/blob/main/notebooks/1_EDA_Users.ipynb) and [EDA_movies](https://github.com/flux511/recommender-system-capstone/blob/main/notebooks/1_EDA_Movies.ipynb)
-- [Collaborative filtering recommendations](https://github.com/flux511/recommender-system-capstone/blob/main/notebooks/6_top_n_recommendations.ipynb)
-- [Diversity optimization](https://github.com/flux511/recommender-system-capstone/blob/main/notebooks/9b_optimizing_diversity.ipynb) 
-- [Dashboard](https://github.com/flux511/recommender-system-capstone/blob/main/notebooks/8b_Dashboard.ipynb)  
-
 <br>
 
 ## Requirements
